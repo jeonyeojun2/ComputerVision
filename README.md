@@ -11,4 +11,4 @@ OpenCV를 활용한 간단하면서도 강력한 비디오 녹화 프로그램�
 
 ## 🔹 실행 화면 예시
 - **녹화중인 영상**: 
-- **녹화된 영상**: https://github.com/jeonyeojun2/Smart_VideoRecoder/issues/1#issue-2924840168
+- **녹화된 영상**: ![Image](https://github.com/user-attachments/assets/51e34de2-6f65-4154-8c55-e5ebca5e6b39)
