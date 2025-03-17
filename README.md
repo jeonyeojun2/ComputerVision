@@ -10,3 +10,5 @@ OpenCV를 활용한 간단하면서도 강력한 비디오 녹화 프로그램�
 - **저장**: `ESC` 키를 눌러 종료하면 자동으로 output.avi로 저장됩니다.
 
 ## 🔹 실행 화면 예시
+- **녹화중인 영상**: 
+- **녹화된 영상**: https://github.com/jeonyeojun2/Smart_VideoRecoder/issues/1#issue-2924840168
